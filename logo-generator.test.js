@@ -1,4 +1,4 @@
-const { Circle, Triangle, Square } = require('../shape');
+const { Circle, Triangle, Square } = require('/shape');
 
 describe('Circle', () => {
   test('should render a circle shape with the specified color', () => {
